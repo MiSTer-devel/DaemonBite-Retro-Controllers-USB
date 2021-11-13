@@ -74,7 +74,7 @@
 // For arduino shield spinner: 20
 #define SPINNER_PPR 20
 
-// Comment it to dosable paddle emulation by spinner
+// Comment it to disable paddle emulation by spinner
 #define PADDLE_EMU
 
 // Comment it to disable the paddle (potentiomenter) support.
